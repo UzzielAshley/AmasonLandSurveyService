@@ -77,7 +77,7 @@
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
       <h1>Welcome to Amason Land Surveying</h1>
       <h2>A Geodetic Engineering Firm with vast experience in the Engineering Industry, Geodetic Surveys, and Cadastral Surveys. </h2>
-      <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <a href="#contact" class="btn-get-started scrollto">Message us now!</a>
     </div>
   </section><!-- End Hero -->
 
@@ -190,12 +190,11 @@
             Our services are aligned with the regulations of land surveying methods as mandated by the DENR.</p>
         </div>
 
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Land Surveying</a></h4>
-              <!-- <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p> -->
             </div>
           </div>
 
@@ -203,7 +202,6 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Geodetic Surveying</a></h4>
-              <!-- <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p> -->
             </div>
           </div>
 
@@ -211,7 +209,6 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Engineering Surveys</a></h4>
-              <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p> -->
             </div>
           </div>
 
@@ -219,7 +216,6 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Design and Cadastral Surveys</a></h4>
-              <!-- <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p> -->
             </div>
           </div>
 
@@ -227,7 +223,6 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Topographic Surveys</a></h4>
-              <!-- <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p> -->
             </div>
           </div>
 
@@ -235,10 +230,88 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href="">Public Land Survey</a></h4>
-              <!-- <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p> -->
             </div>
           </div>
 
+        </div> -->
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
+            <img src="assets/img/drone-uaw.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
+            <h3><b>Land Surveys</b></h3>
+            <p class="fst-italic">
+              <b>Original Survey</b>
+              The unnamed cadastral lots require an actual
+              ground survey and approval from the
+              Department of Environment and Natural
+              Resources-Land Management Service (DENR-
+              LMS)..</p>
+              <p>
+              <b>Relocation</b>
+              Moving the parcel corners to new locations
+              based on the bearings, distances, and area
+              specified in the approved survey or written in
+              the lease contract, if applicable, or Torrens
+              Title.</p>
+              <p>
+              <b>Verification Survey</b>
+              Conducting surveys on land parcels suspected
+              of having encroachments.</p>
+              <p>
+              <b>Resurvey Surveys</b> are conducted with the aim of
+              recording the technical description on the title
+              of a land parcel for which the original technical
+              description is no longer accessible in different
+              government offices.
+              </p>
+              <p>
+              <b>Subdivision/Consolidation Survey</b>
+              The client may require the division or
+              combination of an untitled or titled property
+              into multiple lots, which is known as
+              segregation or consolidation
+            </p>
+            
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-left">
+            <img src="assets/img/engineer.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-right">
+            <h3><b>Engineering Surveys</b></h3>
+            <p>
+              <b>As-Built Survey</b>
+              Conducting surveys of current structures,
+              utilities, and improvements for planning and
+              design purposes.
+            </p>
+            <p>
+              <b>Topographic Survey</b>
+              Performed to assess the topography and
+              layout of the land to aid in planning and design
+              endeavors.
+            </p>
+            <p>
+            
+            <b>Parcellary Survey</b>
+            Conducting surveys of land parcels situated
+            along a designated alignment to facilitate the
+            design process.
+            </p>
+            <b>Profile and Cross-Section</b>
+            Creating profiles and cross-sections of
+            highways and existing water bodies.
+            </p>
+            <p>
+            <b>Hydrographic Survey</b>
+            Surveying bodies of water to assess both the
+            depth and the shape of the seabed.
+                        </p>
+            
+          </div>
         </div>
 
       </div>
@@ -264,7 +337,7 @@
         <div class="section-title">
           <span>Portfolio</span>
           <h2>Portfolio</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>Our Portfolio showcases the diverse range of successful surveying projects we've undertaken, reflecting our expertise and commitment to delivering top-notch services.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
@@ -384,7 +457,7 @@
         <div class="section-title">
           <span>Team</span>
           <h2>Team</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>Our Founder, an experienced and dedicated surveyor, has a passion for precision and a track record of delivering exceptional results for our valued clients.</p>
         </div>
 
         <div class="row">
@@ -433,7 +506,7 @@
         <div class="section-title">
           <span>Contact</span>
           <h2>Contact</h2>
-          <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+          <p>Contact us, your reliable surveyor, for expert services tailored to your specific needs. We're here to assist you with precision and professionalism.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
