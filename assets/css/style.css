@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #cc1616;
+  color: #ffbb00;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #cc1616;
+  background: #f7c900;
   width: 40px;
   height: 40px;
   transition: all 0.4s;
@@ -55,7 +55,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #e72323;
+  background: #ffae00;
   color: #fff;
 }
 
@@ -143,7 +143,7 @@ h6 {
 }
 
 #topbar .contact-info i {
-  color: #cc1616;
+  color: #ffbb00;
   line-height: 0;
   margin-right: 5px;
 }
@@ -249,7 +249,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  background: #cc1616;
+  background: #ffbb00;
 }
 
 .navbar .dropdown ul {
@@ -328,7 +328,7 @@ h6 {
 }
 
 .mobile-nav-toggle.bi-x {
-  color: #cc1616;
+  color: #ffbb00;
 }
 
 @media (max-width: 991px) {
@@ -382,7 +382,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #cc1616;
+  color: #ffbb00;
   background: none;
 }
 
@@ -418,7 +418,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #cc1616;
+  color: #ffbb00;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -475,8 +475,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #cc1616;
-  border-color: #cc1616;
+  background: #ffbb00;
+  border-color: #ffbb00;
 }
 
 @media (min-width: 1024px) {
@@ -581,7 +581,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #cc1616;
+  color: #ffbb00;
 }
 
 .about .content p:last-child {
@@ -624,7 +624,7 @@ section {
 }
 
 .why-us .box:hover {
-  background: #cc1616;
+  background: #ffbb00;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -677,7 +677,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #cc1616;
+  background: #ffbb00;
   transition: all 0.3s ease-out 0s;
   display: flex;
   align-items: center;
@@ -720,8 +720,8 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #cc1616;
-  border-color: #cc1616;
+  background: #ffbb00;
+  border-color: #ffbb00;
   padding: 70px 20px 90px 20px;
 }
 
@@ -730,11 +730,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #cc1616;
+  color: #ffbb00;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #e82d2d;
+  background: #ffbb00;
 }
 
 .services .icon-box:hover h4 a,
@@ -776,8 +776,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #cc1616;
-  border: 2px solid #cc1616;
+  background: #ffbb00;
+  border: 2px solid #ffbb00;
 }
 
 /*--------------------------------------------------------------
@@ -1037,7 +1037,7 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  background: #e82d2d;
+  background: #ffbb00;
 }
 
 .pricing .featured {

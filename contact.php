@@ -7,25 +7,43 @@ require 'src/Exception.php';
 require 'src/PHPMailer.php';
 require 'src/SMTP.php';
 
-if(isset($_POST["send"])){
+// if(isset($_POST["send"])){
     $mail = new PHPMailer(true );
 
     $mail->isSMTP();
-    $mail->Host = 'uashvaldez@gmail.com';
+    $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
     $mail->Username =  'uashvaldez@gmail.com';
     $mail->Password ='ngkttgxgjigbgdcg';
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
 
-    $mail->setFrom('uashvaldez@gmail.com');
-    $mail->addAddress('$_POST["email"]');
+    $mail->setFrom($_POST["email"]);
+    $mail->addAddress('uashvaldez@gmail.com');
     $mail->isHTML(true);
 
     $mail->Subject = $_POST["subject"];
-    $mail->Body = $_POST["message"];
 
-    $mail->send();
+    $body = "";
+    $body .= "Sender Email: ". $_POST['email']. "\r\n <br>";
+    $body .= "Name: ". $_POST['name']. "\r\n <br>";
+    $body .= "Message: ". $_POST['message']. "\r\n";
+
+
+    $mail->Body = $body;
+
+    // $mail->send();
+
+
+    if($mail->send()){
+        var_dump($_POST) ;
+        echo
+        "
+        <script>
+        alert('Sent Successfuly');
+        </script>
+        ";
+    }
 
 
     // echo 
@@ -34,7 +52,9 @@ if(isset($_POST["send"])){
     // alert('Sent Successfuly');
     // document.location.href = 'index.php'  
     // ";
-}
+// }else {
+    // var_dump($_POST) ;
+// }
 
 
 
