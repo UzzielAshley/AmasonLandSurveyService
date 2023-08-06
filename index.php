@@ -93,28 +93,15 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3>About Us</h3>
-            <p class="fst-italic">
-              Amason Land Surveying Services, is your trusted partner for all your geomatics needs! Our office was founded by a dynamic father and son duo, both Licensed Geodetic Engineers, who share a passion for precision and excellence.  
-            </p>
-            <!-- <ul>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-              <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-              <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
-            </ul> -->
-            <p>
-              The name "Amason" carries a deep significance. It symbolizes the strong bond between the father and son, representing their commitment to delivering exceptional surveying services. Moreover, it draws inspiration from Jeff Bezos, the visionary founder of Amazon, underscoring our dedication to innovation and customer-centricity. Most notably, AMA represents God the Father and SON represents Jesus Christ his only begotten son.
-            </p>
-            <p>
-              Formerly E.A. Ilao Surveying Services, we embraced "Amason" after the son's board exam success, marking a new chapter of excellence.
-            </p>
-            <p>
-              Based in Alfonso, Cavite, we serve efficiently with over two decades of experience. Our skilled team offers reliable land surveying, boundary surveys, topographic mapping, and construction staking.  
-            </p>
-            <!-- <p>
-              At Amason Land Surveying Services, we specialize in land surveying, offering a comprehensive range of geomatics services. Whether you require boundary surveys, topographic mapping, or construction staking, our team of skilled professionals is dedicated to delivering accurate and reliable results.
-            </p> -->
-            <p>
-              As a top-growing surveying company in Calabarzon, we take pride in our commitment to quality and customer satisfaction. Trust us to turn your vision into reality for all your land-related endeavors.
+            <p>Amason Land Surveying Services, is your trusted partner for all your geomatics needs! Our office was founded by a dynamic father and son duo, both Licensed Geodetic Engineers, who share a passion for precision and excellence.</p>
+            
+            <p>The name "Amason" carries a deep significance. It symbolizes the strong bond between the father and son, representing their commitment to delivering exceptional surveying services. Moreover, it draws inspiration from Jeff Bezos, the visionary founder of Amazon, underscoring our dedication to innovation and customer-centricity. Most notably, AMA represents God the Father and SON represents Jesus Christ his only begotten son.</p>
+            <p>Formerly known as E.A. Ilao Surveying Services, we proudly took on the name Amason Land Surveying Services after the founder's son successfully passed the board examination. This momentous achievement marked a new chapter for our company, further solidifying our commitment to excellence.</p>
+            <p>Situated in the heart of Alfonso, Cavite, our prime location enables us to serve the region efficiently and effectively. With over two decades of experience in the industry, the founder brings a wealth of knowledge and expertise to every project we undertake.<p>
+            <p class="additional-content" style="display: none;">At Amason Land Surveying Services, we specialize in land surveying, offering a comprehensive range of geomatics services. Whether you require boundary surveys, topographic mapping, or construction staking, our team of skilled professionals is dedicated to delivering accurate and reliable results.
+            <br><br>As one of the top-growing surveying companies in Calabarzon, we take immense pride in the trust our clients place in us. Our unwavering commitment to quality, precision, and customer satisfaction sets us apart in the industry. We are here to turn your vision into reality, providing you with the essential information you need for your land-related endeavors.</p>
+            <a class="cta-btn" id="myLink" onclick="toggleContent()">See More</a>
+          </div>
             </p>
           </div>
         </div>
@@ -134,13 +121,21 @@
             <div class="row">
     
               <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="150">
-                <div class="box">
+                <div class="box box-mission">
                   <h1>Mission</h1>
                   <!-- <h4><sup>$</sup>0<span> / month</span></h4> -->
                   <p>
-                    Accurate and Reliable Survey Data: Precision is at the core of our operations. We take great pride in delivering survey data that is not only accurate but also reliable. Our skilled and licensed geodetic engineers use cutting-edge technology and industry best practices to ensure utmost precision in every survey, empowering our clients to make informed decisions with confidence.
+                    Integrity and Excellence: We prioritize serving our clients with unwavering integrity and a commitment to excellence. We maintain the highest ethical standards, ensuring transparency, honesty, and professionalism in every project. Building lasting relationships based on trust and reliability is our goal.
                   </p>
-                  <br>
+                  <p class="additional-mission" style="display: none;">
+                    Accurate and Reliable Survey Data: Precision is at the core of our operations. We take great pride in delivering survey data that is not only accurate but also reliable. Our skilled and licensed geodetic engineers use cutting-edge technology and industry best practices to ensure utmost precision in every survey, empowering our clients to make informed decisions with confidence.
+                  <br> <br>
+                  Empowering Employee Growth: Our employees are the backbone of our success. To provide top-notch geomatics services, we invest in their growth and development. Through comprehensive training and continuous learning opportunities, we nurture experts in their respective fields. Our supportive and collaborative work environment fosters a harmonious relationship, leading to mutual growth and success.
+                  </p>
+                  <br><br>
+                  <a class="cta-btn" id="mission" onclick="togglemission()">See More</a>
+                  
+                  
                   <!-- <div class="btn-wrap">
                     <a href="#" class="btn-buy">Cont</a>
                   </div> -->
@@ -148,18 +143,22 @@
               </div>
     
               <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="zoom-in">
-                <div class="box">
+                <div class="box box-vision">
                   <h1>Vision</h1>
-                  <!-- <h4><sup>$</sup>19<span> / month</span></h4> -->
                   <p>
+                  Pioneering Sustainable Development: We lead the way in promoting sustainable development through our land surveys and services. Sustainability is at the heart of our mission. By integrating environmentally responsible approaches and cutting-edge technology, we positively contribute to the preservation of our planet and its resources.
+                  </p>
+                  <p class="additional-vision" style="display: none;">
                     Excellence in Geomatics Services and Employee Satisfaction: Our aim is to be among the best geomatics companies in the Philippines. We constantly strive for excellence in all aspects of our operations, delivering accurate, reliable, and innovative surveying services. At the same time, we create a workplace that fosters employee fulfillment, growth, and well-being, empowering them to contribute to our overall success.
                   </p>
+                  <br>
+                  <a class="cta-btn" id="vision" onclick="togglevision()">See More</a>
                   
                 </div>
               </div>
 
               <div class="col-lg-4 col-md-6 mt-4 mt-md-0" data-aos="zoom-in">
-                <div class="box">
+                <div class="box box-values">
                   <h1>Core Values</h1>
                   <!-- <h4><sup>$</sup>19<span> / month</span></h4> -->
                   <p>
@@ -168,7 +167,14 @@
                   <p>
                     Teamwork: Collaboration and teamwork are at the heart of our success. We value the contributions of each team member and understand that together, we can achieve remarkable results.
                   </p>
-                  
+                  <p class="additional-values" style="display: none;">
+                  Innovation: We embrace innovation and constantly strive to raise the bar in the geomatics industry. Our dedication to staying at the forefront of technology and best practices enables us to deliver exceptional services.
+                  <br> <br>
+                  Continuous Improvement: We believe in continuously improving our processes, skills, and services. By embracing change and seeking growth opportunities, we remain at the forefront of our industry.
+                  <br> <br>
+                  Professionalism: Our conduct is guided by professionalism and courtesy, maintaining a high level of professionalism in all interactions, both internal and external.
+                  </p>
+                  <a class="cta-btn" id="vision" onclick="togglevalues()">See More</a>
                 </div>
               </div>
     
@@ -189,51 +195,6 @@
           <p>We use the latest technology and solutions in EDM, laser, GPS/GNSS and drones to complete our services.
             Our services are aligned with the regulations of land surveying methods as mandated by the DENR.</p>
         </div>
-
-        <!-- <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Land Surveying</a></h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="150">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Geodetic Surveying</a></h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Engineering Surveys</a></h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="450">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Design and Cadastral Surveys</a></h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Topographic Surveys</a></h4>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="750">
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Public Land Survey</a></h4>
-            </div>
-          </div>
-
-        </div> -->
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
@@ -329,6 +290,86 @@
 
       </div>
     </section><!-- End Cta Section -->
+
+        <!-- ======= Services Section ======= -->
+        <section id="services" class="services">
+      <div class="container">
+
+        <!-- <div class="section-title">
+          <span>Services</span>
+          <h2>Services</h2>
+          <p>We use the latest technology and solutions in EDM, laser, GPS/GNSS and drones to complete our services.
+            Our services are aligned with the regulations of land surveying methods as mandated by the DENR.</p>
+        </div> -->
+
+        <div class="row">
+          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left">
+            <img src="assets/img/other-surveying-services.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
+            <h3><b>Other Surveying Services</b></h3>
+            <p>
+            <b>Mineral Land Survey</b>
+            Performing surveys on meridional blocks to
+            achieve various mining goals.
+            <br><br>
+            <b>Foreshore Land Survey</b>
+            Conducted to determine the exact boundaries
+            and measurements of the area included in the
+            foreshore lease application.
+            <br><br>
+            <b>Unmanned Aerial Vehicle (UAV) Mapping
+            Services</b>
+            Using unmanned aerial vehicles or drones for
+            land surveying with a focus on planning and
+            design objectives.
+            <br><br>
+            <b>Ground Control Point (GCP) Establishment</b>
+            Establishment of ground control points to
+            serve various surveying needs.
+            <br><br>
+            <b>Memorial Park Survey</b>
+            Planning and arranging the design of memorial
+            lots.
+            </p>
+            <br><br><br><br>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-left">
+            <img src="assets/img/other-services.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-right">
+            <h3><b>Other Services</b></h3>
+            <p>
+            <b>Lot Plan with Vicinity</b>
+            Preparation of plans to meet local government
+            requirements, such as Fencing Permit and
+            Building Permit.<br><br>
+            <b>Civil Aviation Authority of the Philippines(CAAP) Height Clearance</b>
+            Certification of CAAP Height Clearance for
+            proposed buildings located near existing
+            airports.
+            Court Appearance
+            Serves as a knowledgeable witness during
+            court proceedings.<br><br>
+            <b>Subdivision Scheme</b>
+            Creation of subdivision designs, ranging from
+            straightforward to intricate layouts.<br><br>
+            <b>Research Work and Due Diligence</b>
+            Conducting research on relevant documents
+            from various government agencies and
+            performing due diligence procedures.<br><br>
+            <b>Titling Procedures</b>
+            Procedures for Administrative or Judicial
+            titling.
+            </p>
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio">

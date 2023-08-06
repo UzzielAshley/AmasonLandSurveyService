@@ -4,6 +4,54 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+function toggleContent() {
+  var additionalContent = document.querySelector('.additional-content');
+  var button = document.getElementById('myLink');
+  if (additionalContent.style.display === 'none') {
+    additionalContent.style.display = 'block';
+    button.textContent = 'See Less';
+  } else {
+    additionalContent.style.display = 'none';
+    button.textContent = 'See More';
+  }
+}
+
+function togglevision() {
+  var additionalContent = document.querySelector('.additional-vision');
+  var button = document.getElementById('vision');
+  if (additionalContent.style.display === 'none') {
+    additionalContent.style.display = 'block';
+    button.textContent = 'See Less';
+  } else {
+    additionalContent.style.display = 'none';
+    button.textContent = 'See More';
+  }
+}
+
+function togglemission() {
+  var additionalContent = document.querySelector('.additional-mission');
+  var button = document.getElementById('mission');
+  if (additionalContent.style.display === 'none') {
+    additionalContent.style.display = 'block';
+    button.textContent = 'See Less';
+  } else {
+    additionalContent.style.display = 'none';
+    button.textContent = 'See More';
+  }
+}
+
+function togglevalues() {
+  var additionalContent = document.querySelector('.additional-values');
+  var button = document.getElementById('values');
+  if (additionalContent.style.display === 'none') {
+    additionalContent.style.display = 'block';
+    button.textContent = 'See Less';
+  } else {
+    additionalContent.style.display = 'none';
+    button.textContent = 'See More';
+  }
+}
+
 (function() {
   "use strict";
 
