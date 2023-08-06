@@ -621,7 +621,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-12 col-md-6">
             <div class="footer-info">
               <h3>Amason Land Surveying Services </h3>
               <p>
