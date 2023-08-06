@@ -13,13 +13,13 @@ require 'src/SMTP.php';
     $mail->isSMTP();
     $mail->Host = 'smtp.gmail.com';
     $mail->SMTPAuth = true;
-    $mail->Username =  'uashvaldez@gmail.com';
-    $mail->Password ='ngkttgxgjigbgdcg';
+    $mail->Username =  'isaacr.ilao@gmail.com';
+    $mail->Password ='wexanincnpqzmpqb';
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
 
     $mail->setFrom($_POST["email"]);
-    $mail->addAddress('uashvaldez@gmail.com');
+    $mail->addAddress('amasonlandsurveying@gmail.com');
     $mail->isHTML(true);
 
     $mail->Subject = $_POST["subject"];

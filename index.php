@@ -202,7 +202,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3><b>Land Surveys</b></h3>
-            <p class="fst-italic">
+            <p>
               <b>Original Survey</b>
               The unnamed cadastral lots require an actual
               ground survey and approval from the
@@ -604,7 +604,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit" name="send">Send Message</button> <a href="#contact" class="btn-get-started scrollto">Request a Company Profile</a></div>
+              <div class="text-center"><button type="submit" name="send">Send Message</button> <a href="https://drive.google.com/file/d/1Rc9MlyqAraW5urk7AdgBcXHzjANXRvH9/view?usp=drive_link" class="btn-get-started scrollto">Request a Company Profile</a></div>
             </form>
           </div>
 
