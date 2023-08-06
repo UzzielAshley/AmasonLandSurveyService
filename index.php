@@ -100,7 +100,7 @@
             <p>Situated in the heart of Alfonso, Cavite, our prime location enables us to serve the region efficiently and effectively. With over two decades of experience in the industry, the founder brings a wealth of knowledge and expertise to every project we undertake.<p>
             <p class="additional-content" style="display: none;">At Amason Land Surveying Services, we specialize in land surveying, offering a comprehensive range of geomatics services. Whether you require boundary surveys, topographic mapping, or construction staking, our team of skilled professionals is dedicated to delivering accurate and reliable results.
             <br><br>As one of the top-growing surveying companies in Calabarzon, we take immense pride in the trust our clients place in us. Our unwavering commitment to quality, precision, and customer satisfaction sets us apart in the industry. We are here to turn your vision into reality, providing you with the essential information you need for your land-related endeavors.</p>
-            <a class="cta-btn" id="myLink" onclick="toggleContent()">See More</a>
+            <a href="about.php" class="cta-btn" id="myLink">See More</a>
           </div>
             </p>
           </div>
@@ -604,7 +604,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit" name="send">Send Message</button></div>
+              <div class="text-center"><button type="submit" name="send">Send Message</button> <a href="#contact" class="btn-get-started scrollto">Request a Company Profile</a></div>
             </form>
           </div>
 

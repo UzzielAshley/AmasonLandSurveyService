@@ -480,6 +480,26 @@ h6 {
   border-color: #ffbb00;
 }
 
+
+#contact .btn-get-started {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  background-color: #ffbb00;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  padding: 12px 30px;
+  transition: 0.5s;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#contact .btn-get-started:hover {
+  background: #ff0000;
+  border-color: #ff0000;
+}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
