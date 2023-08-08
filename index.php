@@ -51,7 +51,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Amason Land Surveying Services
+      <h1 class="logo"><a href="index.php"> <img src="assets/img/logo.png" class="img-fluid" alt="">
       </a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
@@ -75,9 +75,10 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1>Welcome to Amason Land Surveying</h1>
-      <h2>A Geodetic Engineering Firm with vast experience in the Engineering Industry, Geodetic Surveys, and Cadastral Surveys. </h2>
-      <a href="#contact" class="btn-get-started scrollto">Message us now!</a>
+      <h1>Precision Surveys: </h1>
+      <h2>Your trusted path to excellence and reliable insights</h2>
+      <!-- <a href="#contact" class="btn-get-started scrollto">Message us now!</a> -->
+      <a href="https://drive.google.com/file/d/1Rc9MlyqAraW5urk7AdgBcXHzjANXRvH9/view?usp=drive_link" class="btn-get-started scrollto">Request a Company Profile</a>
     </div>
   </section><!-- End Hero -->
 
@@ -201,7 +202,7 @@
             <img src="assets/img/drone-uaw.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3><b>Land Surveys</b></h3>
+            <h3><b class="colorService">Land Surveys</b></h3>
             <p>
               <b>Original Survey</b>
               The unnamed cadastral lots require an actual
@@ -238,11 +239,11 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-left">
+          <div class="col-lg-6 order-1 order-lg-1" data-aos="fade-left">
             <img src="assets/img/engineer.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-right">
-            <h3><b>Engineering Surveys</b></h3>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+            <h3><b class="colorService">Engineering Surveys</b></h3>
             <p>
               <b>As-Built Survey</b>
               Conducting surveys of current structures,
@@ -307,7 +308,7 @@
             <img src="assets/img/other-surveying-services.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
-            <h3><b>Other Surveying Services</b></h3>
+            <h3><b class="colorService">Other Surveying Services</b></h3>
             <p>
             <b>Mineral Land Survey</b>
             Performing surveys on meridional blocks to
@@ -336,11 +337,11 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 order-2 order-lg-1" data-aos="fade-left">
+          <div class="col-lg-6 order-1 order-lg-1" data-aos="fade-left">
             <img src="assets/img/other-services.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-1 order-lg-2 content" data-aos="fade-right">
-            <h3><b>Other Services</b></h3>
+          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-right">
+            <h3><b class="colorService">Other Services</b></h3>
             <p>
             <b>Lot Plan with Vicinity</b>
             Preparation of plans to meet local government
@@ -604,7 +605,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit" name="send">Send Message</button> <a href="https://drive.google.com/file/d/1Rc9MlyqAraW5urk7AdgBcXHzjANXRvH9/view?usp=drive_link" class="btn-get-started scrollto">Request a Company Profile</a></div>
+              <div class="text-center"><button type="submit" name="send">Send Message</button> </div>
             </form>
           </div>
 

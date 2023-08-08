@@ -740,6 +740,10 @@ section {
   margin-bottom: 0;
 }
 
+.colorService{
+  color: #ffbb00;
+}
+
 .services .icon-box:hover {
   background: #ffbb00;
   border-color: #ffbb00;
@@ -1212,7 +1216,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #00d9ff;
+  background: #b33a19;
   text-align: left;
   padding: 15px;
   font-weight: 600;
