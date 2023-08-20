@@ -75,10 +75,10 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
     <div class="container position-relative" data-aos="fade-up" data-aos-delay="500">
-      <h1>Precision Surveys: </h1>
-      <h2>Your trusted path to excellence and reliable insights</h2>
+      <h1 style="color:orange">Amason. </h1>
+      <h1>Navigating with <p style="color:yellow">Accuracy</p></h1>
       <!-- <a href="#contact" class="btn-get-started scrollto">Message us now!</a> -->
-      <a href="https://drive.google.com/file/d/1Rc9MlyqAraW5urk7AdgBcXHzjANXRvH9/view?usp=drive_link" class="btn-get-started scrollto">Request a Company Profile</a>
+      <a href="#contact" class="btn-get-started scrollto">Contact Us</a>
     </div>
   </section><!-- End Hero -->
 
@@ -284,9 +284,10 @@
       <div class="container" data-aos="zoom-in">
 
         <div class="text-center">
-          <h3>Amason Land Surveying Services</h3>
-          <p> A Geodetic Engineering Firm with vast experience in the Engineering Industry, Geodetic Surveys, and Cadastral Surveys. </p>
-          <a class="cta-btn" href="#">Call To Action</a>
+          <h4 style="color:orange">Amason Land Surveying Services</h3>
+          <h1 style="color:#ffffff; font-weight:bold;">Your Trusted Path to Excellence and  Reliable Insights.</h1>
+          <p>Harmonizing dreams, roads, energy horizons, and green havens, our geospatial finesse unveils potential. As you navigate the realm of choices informed, craft blueprints with strategic flair, and weave visionary designs, you emerge as a trailblazer of purposeful transformation</p>
+          <a class="cta-btn" href="#contact">Contact Us</a>
         </div>
 
       </div>
@@ -373,7 +374,7 @@
     </section><!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
       <div class="container">
 
         <div class="section-title">
@@ -386,9 +387,9 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <!-- <li data-filter=".filter-app">App</li>
+               <li data-filter=".filter-app">App</li>
               <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li> -->
+              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
@@ -488,12 +489,13 @@
         </div>
 
       </div>
-    </section><!-- End Portfolio Section -->
+    </section> -->
+    <!-- End Portfolio Section -->
 
 
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team">
+    <!-- <section id="team" class="team">
       <div class="container">
 
         <div class="section-title">
@@ -509,7 +511,7 @@
               <h4>Efren Ilao</h4>
               <span>Geodetic Engineer/ Founder</span>
               <p>
-                <!-- Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut -->
+                
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -526,7 +528,6 @@
               <h4>Isaac Ilao</h4>
               <span>Geodetic Engineer/ Founder</span>
               <p>
-                <!-- Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus -->
               </p>
               <div class="social">
                 <a href=""><i class="bi bi-twitter"></i></a>
@@ -539,7 +540,8 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section> -->
+    <!-- End Team Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
@@ -596,6 +598,9 @@
               </div>
               <div class="form-group mt-3">
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="company" id="company" placeholder="Company Name" required>
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>

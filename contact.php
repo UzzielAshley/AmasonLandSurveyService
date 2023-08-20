@@ -32,6 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $body = "";
         $body .= "Sender Email: ". $_POST['email']. "\r\n <br>";
         $body .= "Name: ". $_POST['name']. "\r\n <br>";
+        $body .= "Company Name: ". $_POST['company']. "\r\n <br>";
         $body .= "Message: ". $_POST['message']. "\r\n";
 
 
